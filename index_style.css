@@ -4,4 +4,8 @@ div.head {
     font-weight: bold;
     text-align: center;
     color:brown;
+    transition: color, 2s;
+}
+div.head:hover {
+    color:coral
 }
